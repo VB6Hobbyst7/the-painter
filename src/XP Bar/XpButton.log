@@ -1,0 +1,12 @@
+行 38: 控件 pc 的类 PicClip.PictureClip 不是一个已加载的控件类。
+行 53: 控件 pcChoice 的类 PicClip.PictureClip 不是一个已加载的控件类。
+行 41: 属性名 _ExtentX 在 pc 中是无效的。
+行 42: 属性名 _ExtentY 在 pc 中是无效的。
+行 43: 属性名 _Version 在 pc 中是无效的。
+行 44: 属性名 Cols 在 pc 中是无效的。
+行 38: 属性 Picture 在 pc 中不能被设置。
+行 57: 属性名 _ExtentX 在 pcChoice 中是无效的。
+行 58: 属性名 _ExtentY 在 pcChoice 中是无效的。
+行 59: 属性名 _Version 在 pcChoice 中是无效的。
+行 60: 属性名 Cols 在 pcChoice 中是无效的。
+行 53: 属性 Picture 在 pcChoice 中不能被设置。
