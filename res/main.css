@@ -1,0 +1,127 @@
+body {
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	SCROLLBAR-FACE-COLOR: #e6e6e6;/*正面颜色*/
+	SCROLLBAR-SHADOW-COLOR:#cccccc;/*阴影颜色*/
+	SCROLLBAR-ARROW-COLOR:#333333;/*箭头颜色*/
+	SCROLLBAR-TRACK-COLOR:#f0f0f0;/*背景颜色*/
+	SCROLLBAR-DARKSHADOW-COLOR:#cccccc;/*背光面颜色*/
+	SCROLLBAR-BASE-COLOR:#eeeeee;/*迎光面颜色*/
+}
+.txt {
+	font-family: "宋体";
+	font-size: 12px;
+	line-height: 18px;
+	color: #333333;
+}
+
+/*以下为普通文本样式*/
+.content14px {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #333333;
+}
+.content14pxb {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #333333;
+	font-weight: bold;
+}
+.content14pxbred {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FF3300;
+	font-weight: bold;
+}
+.content9pt {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #333333;
+}
+.content9ptb {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #333333;
+	font-weight: bold;
+}
+.content9ptbred {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #FF3300;
+	font-weight: normal;
+}
+
+a:link {
+	font-family: "宋体";
+	color: #0033CC;
+}
+a:visited {
+	font-family: "宋体";
+	color: #0033CC;
+}
+a:hover {
+	font-family: "宋体";
+	color: #FF3300;
+	text-decoration: none;
+}
+a:active {
+	font-family: "宋体";
+	color: #FF0000;
+	text-decoration: none;
+}
+.pt9line:link {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #0033CC;
+	text-decoration: underline;
+}
+.pt9line:visited {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #0033CC;
+	text-decoration: underline;
+}
+.pt9line:hover {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #FF3300;
+	text-decoration: none;
+}
+.pt9line:active {
+	font-family: "宋体";
+	font-size: 9pt;
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+
+.pt9red:link {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FF6600;
+	font-weight: bold;
+	text-decoration: none;
+}
+.pt9red:visited {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FF6600;
+	font-weight: bold;
+	text-decoration: none;
+}
+.pt9red:hover {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FF3300;
+	text-decoration: none;
+}
+.pt9red:active {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #FF0000;
+	text-decoration: none;
+}
+p {
+	text-indent: 18pt;
+}
